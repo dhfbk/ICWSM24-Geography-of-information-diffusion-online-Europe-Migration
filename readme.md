@@ -8,7 +8,7 @@ Elisa Leonardelli and Sara Tonelli. 2024.
 
 Accepted in *Proceedings of the International AAAI Conference on Web and Social Media. 2024*, Buffalo, NY, United States. 
 
-Paper available at [[paper]](https://arxiv.org/abs/2402.13800)
+Paper available at [[paper]](https://ojs.aaai.org/index.php/ICWSM/article/download/31361/33521/35417)
 
 
 ## Abstract
@@ -38,7 +38,7 @@ location, assigned_state, annotation
 ```
 
 - ### DataSection3.tsv
-This file contains the information necessary to reproduce results of section 3. Given size limitations of this file, the file is available upon request to the authors.
+This file contains the information necessary to reproduce results of section 3. Given size limitations of this file, you can download data at this [[link]](https://drive.google.com/file/d/1O2-jWnA5w4eSfIjBNyehRVwLuo6Guu_Z/view?usp=drive_link). The file is also available upon request to the authors.
 
 Columns are:
 ```
